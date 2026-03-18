@@ -138,4 +138,4 @@ TI-84-Offline/
 
 MIT License — see [LICENSE](LICENSE) for details.
 
-#GL on whatever you need this on ;)
+## GL on whatever you need this on ;)
