@@ -52,7 +52,7 @@ plus a verification check to confirm the answer is correct.
 2. Open TI Connect CE on your PC
 3. Connect your calculator via USB
 4. Open Calculator Explorer in TI Connect CE
-5. Drag all 9 files onto the calculator at once
+5. Drag all 8 files onto the calculator at once
 6. On the calc: `[apps]` → `Python` → `Files` → `MATH_AI` → `Run`
 
 ---
